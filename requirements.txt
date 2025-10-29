@@ -1,0 +1,26 @@
+# Django and DRF
+Django==5.1.1
+djangorestframework==3.15.2
+djangorestframework-simplejwt==5.3.1
+drf-yasg==1.21.6
+
+# Database
+psycopg2-binary==2.9.11
+
+# CORS
+django-cors-headers==4.4.0
+
+# Environment variables
+python-decouple==3.8
+
+# Base dependencies
+setuptools>=65.0.0
+
+# Filters
+django-filter==24.3
+
+# Documentation
+drf-spectacular==0.27.2
+
+# Image handling
+Pillow==10.4.0
